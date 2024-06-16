@@ -3,4 +3,5 @@
 # Built With
 * Python
 * Numpy
+* Matplotlib
 # Closer Look
