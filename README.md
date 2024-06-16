@@ -1,4 +1,4 @@
-# Satellite Simulation Project
+# Planetary System Simulation
 
 # Built With
 * Python
