@@ -1,5 +1,5 @@
 # Satellite Simulation Project
 
 # Built With
-* C++
+* Python
 # Closer Look
