@@ -2,4 +2,5 @@
 
 # Built With
 * Python
+* Numpy
 # Closer Look
