@@ -9,6 +9,7 @@ Program to simulate the motion of planets around a star using classical mechanic
 </svg>
 
 ### Newton's Second Law of Motion:
+
 ![Acceleration Equation](/acceleration.svg)
 
 
