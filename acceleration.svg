@@ -1,5 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
   <text x="10" y="40" font-family="Arial" font-size="20" fill="white">
-    a = F / m = G m₂ / r²
+    a = 
+  </text>
+  <text x="35" y="30" font-family="Arial" font-size="20" fill="white">
+    F
+  </text>
+  <line x1="30" y1="35" x2="55" y2="35" stroke="white" />
+  <text x="35" y="50" font-family="Arial" font-size="20" fill="white">
+    m
+  </text>
+  <text x="65" y="40" font-family="Arial" font-size="20" fill="white">
+    = G
+  </text>
+  <text x="115" y="30" font-family="Arial" font-size="20" fill="white">
+    m₂
+  </text>
+  <line x1="110" y1="35" x2="155" y2="35" stroke="white" />
+  <text x="125" y="50" font-family="Arial" font-size="20" fill="white">
+    r²
   </text>
 </svg>
