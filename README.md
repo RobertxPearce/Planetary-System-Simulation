@@ -9,11 +9,8 @@ Program to simulate the motion of planets around a star using classical mechanic
 </svg>
 
 ### Newton's Second Law of Motion:
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
-  <text x="10" y="40" font-family="Arial" font-size="20" fill="white">
-    a = F / m = G m₂ / r²
-  </text>
-</svg>
+![Acceleration Equation](/acceleration.svg)
+
 
 # Built With
 * Python
