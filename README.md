@@ -23,8 +23,8 @@ Program to simulate the motion of planets around a central star using classical 
 * Orbital Mechanics
   * http://www.braeunig.us/space/orbmech.htm
   * https://www.britannica.com/science/mechanics/Circular-orbits
-  * https://youtu.be/hM0ifRzrhpw?si=bvrBMJZ7Ibk2MU-V
+  * https://youtu.be/QIaAleG0Eb4?si=qny_uuotYvv0R_Dh
 
 * Newton's Law of Universal Gravitation
   * https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
-  * https://youtu.be/g550H4e5FCY?si=RgKVHyNf8B0wBck0
+  * https://youtu.be/hM0ifRzrhpw?si=bvrBMJZ7Ibk2MU-V
